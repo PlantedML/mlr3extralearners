@@ -4,10 +4,10 @@
     <loc>https://mlr3extralearners.mlr-org.com/dev/articles/index.html</loc>
   </url>
   <url>
-    <loc>https://mlr3extralearners.mlr-org.com/dev/articles/learners/list_learners.html</loc>
+    <loc>https://mlr3extralearners.mlr-org.com/dev/articles/learner_status.html</loc>
   </url>
   <url>
-    <loc>https://mlr3extralearners.mlr-org.com/dev/articles/learners/test_overview.html</loc>
+    <loc>https://mlr3extralearners.mlr-org.com/dev/articles/list_learners.html</loc>
   </url>
   <url>
     <loc>https://mlr3extralearners.mlr-org.com/dev/authors.html</loc>
@@ -64,6 +64,9 @@
     <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_classif.PART.html</loc>
   </url>
   <url>
+    <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_classif.abess.html</loc>
+  </url>
+  <url>
     <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_classif.bart.html</loc>
   </url>
   <url>
@@ -97,6 +100,12 @@
     <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_classif.glmboost.html</loc>
   </url>
   <url>
+    <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_classif.glmer.html</loc>
+  </url>
+  <url>
+    <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_classif.imbalanced_rfsrc.html</loc>
+  </url>
+  <url>
     <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_classif.ksvm.html</loc>
   </url>
   <url>
@@ -110,6 +119,9 @@
   </url>
   <url>
     <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_classif.mob.html</loc>
+  </url>
+  <url>
+    <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_classif.priority_lasso.html</loc>
   </url>
   <url>
     <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_classif.randomForest.html</loc>
@@ -146,6 +158,9 @@
   </url>
   <url>
     <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_regr.M5Rules.html</loc>
+  </url>
+  <url>
+    <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_regr.abess.html</loc>
   </url>
   <url>
     <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_regr.bart.html</loc>
@@ -203,6 +218,9 @@
   </url>
   <url>
     <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_regr.mob.html</loc>
+  </url>
+  <url>
+    <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_regr.priority_lasso.html</loc>
   </url>
   <url>
     <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_regr.randomForest.html</loc>
@@ -287,6 +305,9 @@
   </url>
   <url>
     <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_surv.penalized.html</loc>
+  </url>
+  <url>
+    <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_surv.priority_lasso.html</loc>
   </url>
   <url>
     <loc>https://mlr3extralearners.mlr-org.com/dev/reference/mlr_learners_surv.ranger.html</loc>
